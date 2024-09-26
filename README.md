@@ -1,16 +1,14 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL:💜
 
-<!--
-**1B022VRRC/1B022VRRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vivian Rafaelly
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001127976023sp@al.educacao.sp.gov.br
+
+![image](https://github.com/user-attachments/assets/e292cec2-c86f-499a-9c12-3d2baf7a1cb5)
+
